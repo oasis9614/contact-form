@@ -1,0 +1,17 @@
+/*-------------------------- RESET STYLES --------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*---------------------------- VARIABLES ----------------------------*/
+
+$main-font:sans-serif;
+$main-color: #0652dd;
+$text-color: #fff;
+
+/*----------------------------- IMPORTS -----------------------------*/
+
+@import 'components/contact';
